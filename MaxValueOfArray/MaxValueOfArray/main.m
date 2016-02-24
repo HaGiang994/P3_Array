@@ -16,7 +16,7 @@
 - (NSInteger) maxValueOfArray: (NSArray *)array {
     NSInteger maxValue = [[array objectAtIndex:0] intValue];
     NSInteger numberOfElements = [array count];
-    for (int i = 1; i < numberOfElements; i ++ ) {
+    for (int i = 1; i < numberOfElements; i ++) {
         if (maxValue < [[array objectAtIndex:i] intValue]) {
             maxValue = [[array objectAtIndex:i] intValue];
         }
