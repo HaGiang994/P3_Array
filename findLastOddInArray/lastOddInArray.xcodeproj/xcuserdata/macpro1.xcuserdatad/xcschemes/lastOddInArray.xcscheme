@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "48CBB4DB1C7D6D44002E27D8"
-               BuildableName = "LastOddInArray"
-               BlueprintName = "LastOddInArray"
-               ReferencedContainer = "container:LastOddInArray.xcodeproj">
+               BlueprintIdentifier = "48DE553F1C7A8384003D3D39"
+               BuildableName = "lastOddInArray"
+               BlueprintName = "lastOddInArray"
+               ReferencedContainer = "container:lastOddInArray.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "48CBB4DB1C7D6D44002E27D8"
-            BuildableName = "LastOddInArray"
-            BlueprintName = "LastOddInArray"
-            ReferencedContainer = "container:LastOddInArray.xcodeproj">
+            BlueprintIdentifier = "48DE553F1C7A8384003D3D39"
+            BuildableName = "lastOddInArray"
+            BlueprintName = "lastOddInArray"
+            ReferencedContainer = "container:lastOddInArray.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "48CBB4DB1C7D6D44002E27D8"
-            BuildableName = "LastOddInArray"
-            BlueprintName = "LastOddInArray"
-            ReferencedContainer = "container:LastOddInArray.xcodeproj">
+            BlueprintIdentifier = "48DE553F1C7A8384003D3D39"
+            BuildableName = "lastOddInArray"
+            BlueprintName = "lastOddInArray"
+            ReferencedContainer = "container:lastOddInArray.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "48CBB4DB1C7D6D44002E27D8"
-            BuildableName = "LastOddInArray"
-            BlueprintName = "LastOddInArray"
-            ReferencedContainer = "container:LastOddInArray.xcodeproj">
+            BlueprintIdentifier = "48DE553F1C7A8384003D3D39"
+            BuildableName = "lastOddInArray"
+            BlueprintName = "lastOddInArray"
+            ReferencedContainer = "container:lastOddInArray.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

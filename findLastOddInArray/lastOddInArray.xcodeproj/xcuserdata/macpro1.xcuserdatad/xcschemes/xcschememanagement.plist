@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>LastOddInArray.xcscheme</key>
+		<key>lastOddInArray.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>48CBB4DB1C7D6D44002E27D8</key>
+		<key>48DE553F1C7A8384003D3D39</key>
 		<dict>
 			<key>primary</key>
 			<true/>
